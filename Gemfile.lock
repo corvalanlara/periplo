@@ -39,7 +39,7 @@ GEM
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
-      sass-embedded (~> 1.54)
+      sass-embedded (~> 1.69)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
