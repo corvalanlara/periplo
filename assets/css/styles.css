@@ -9,3 +9,8 @@
 .post p:first-of-type {
 	text-indent: 1.5em !important;
 }
+
+hr {
+	margin: auto;
+	padding-bottom: 1.5em;
+}
