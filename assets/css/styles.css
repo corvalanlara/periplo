@@ -14,3 +14,10 @@ hr {
 	margin: auto;
 	padding-bottom: 1.5em;
 }
+
+.post-author {
+  color: #64644B;
+  display: block;
+  font-size: 0.825em;
+  white-space: nowrap;
+}
