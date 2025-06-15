@@ -4,9 +4,9 @@
 {% if comentarios.size > 0 %}
 <div class="comentario-list">
   {% for comentario in comentarios %}
-  <div class="box my-5 comentario" id="{{ comentario[1]._id }}">
-	  <p><q>&ldquo;{{ comentario[1].message }}&rdquo;</q></p>
-	  <p><small>Escrito por {{ comentario[1].name }} el <i>{{ comentario[1].date | date: '%d/%m/%Y' }}</i></small></p>
+  <div class="box my-5 comentario u-comment h-cite" id="{{ comentario[1]._id }}">
+	  <p class="p-content p-name"><q>&ldquo;{{ comentario[1].message }}&rdquo;</q></p>
+	  <p><small>Escrito por {{ comentario[1].name }} el <i><span class="dt-published">{{ comentario[1].date | date: '%d/%m/%Y' }}</span></i></small></p>
   </div>
   {% endfor %}
 </div>
