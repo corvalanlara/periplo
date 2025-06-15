@@ -15,15 +15,13 @@ layout: default
       {{ page.title }}
     </h1>
   {% endif %}
-
+  <div class="u-url" href="{{ page.url | absolute_url}}"></div>
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
   <div class="post-meta">
-    {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
-    {% endif %}
+    <p>por <div itemprop="author" rel="author" class="p-author h-card" href="https://corvalan.dev/">Daniel Corvalán</div></p>
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d/%m/%Y" }}</time>
   </div>
 
