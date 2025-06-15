@@ -60,7 +60,7 @@ layout: default
 
   {% else %}
 
-    <ul class="post-list">
+    <ul class="post-list h-feed hfeed">
       {% for post in site.posts %}
       	{% if post.hidden != true %}
           {% include post-list-item.html %}
