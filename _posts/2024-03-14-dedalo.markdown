@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "7. Dédalo"
+title:  "Dédalo"
 date:   2024-03-14 12:00:00 -0000
 accept-comments: true
 ---

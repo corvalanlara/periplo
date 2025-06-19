@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3. Ciudad color ladrillo"
+title:  "Ciudad color ladrillo"
 date:   2024-02-25 10:15:00 -0000
 ---
 La estructura de las ciudades responde a las relaciones de poder entre sus habitantes. La distribución de servicios, la declaración de un barrio patrimonial, la prohibición de construir en altura o la ubicación de una autopista o una línea de tren son medios por los cuales las ciudades logran levantar muros entre su población en pos de la protección de una parte de ella.

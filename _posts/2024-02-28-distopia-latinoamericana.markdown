@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4. Distopía a la latinoamericana"
+title:  "Distopía a la latinoamericana"
 date:   2024-02-28 19:47:00 -0000
 ---
 Los futuros distópicos que nos propone la cultura popular utilizan ciudades reales moldeadas por un capitalismo salvaje para ilustrar un futuro próximo y glocal. Ciudades forzosamente multiculturales, donde los letreros de neón con carácteres chinos dan cuenta de la fuerza avallasadora del Capital en su intento de expansión y disfuncional integración social. Es un imaginario particularmente americano donde la Otredad tiene rostro no-blanco (¿acaso no siempre es así?).

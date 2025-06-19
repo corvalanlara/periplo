@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "8. Hammam tetuaní"
+title:  "Hammam tetuaní"
 date:   2024-03-19 22:15:24 -0000
 accept-comments: true
 ---

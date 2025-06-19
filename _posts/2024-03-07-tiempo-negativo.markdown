@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "6. Tiempo negativo"
+title:  "Tiempo negativo"
 date:   2024-03-07 14:17:28 -0000
 accept-comments: true
 ---

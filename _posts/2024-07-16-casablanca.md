@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "16. Casablanca"
+title:  "Casablanca"
 date:   2024-07-16 17:49:00 +2000
 accept-comments: true
 ---

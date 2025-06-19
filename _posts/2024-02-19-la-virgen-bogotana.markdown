@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2. La virgen bogotana"
+title:  "La virgen bogotana"
 date:   2024-02-19 00:08:19 -0000
 ---
 La cordillera de los Andes otorga un eje de referencia particularmente útil para moverse por Santiago de Chile. El oriente santiaguino siempre tendrá de trasfondo el macizo andino haciendo que poniente, norte y sur sean puntos obvios.

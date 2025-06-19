@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "18. Sidi"
+title:  "Sidi"
 date:   2024-09-26 13:40:00 +3000
 accept-comments: false
 ---

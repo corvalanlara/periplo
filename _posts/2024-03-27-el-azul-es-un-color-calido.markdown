@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "9. El azul es un color cálido"
+title:  "El azul es un color cálido"
 date:   2024-03-27 19:48:21 -0000
 accept-comments: true
 ---

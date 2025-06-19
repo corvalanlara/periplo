@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "24. Estallido"
+title:  "Estallido"
 date:   2025-06-13
 accept-comments: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "11. Teatro Real"
+title:  "Teatro Real"
 date:   2024-04-04 15:02:00 -0000
 accept-comments: true
 ---

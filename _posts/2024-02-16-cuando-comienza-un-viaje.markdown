@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1. ¿Cuándo comienza un viaje?"
+title:  "¿Cuándo comienza un viaje?"
 date:   2024-02-16 18:24:19 -0300
 ---
 **¿Cuál es el hito correcto para definir el inicio del recorrido?**
