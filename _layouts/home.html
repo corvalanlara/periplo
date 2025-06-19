@@ -60,7 +60,7 @@ layout: default
 
   {% else %}
 
-    <ol class="post-list h-feed hfeed" reversed>
+    <ol class="h-feed hfeed" reversed>
       {% for post in site.posts %}
       	{% if post.hidden != true %}
           {% include post-list-item.html %}
