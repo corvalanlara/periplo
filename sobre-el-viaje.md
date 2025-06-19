@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sobre el viaje
 ---
 <span id="frase"></span>
