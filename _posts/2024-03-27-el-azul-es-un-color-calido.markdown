@@ -8,7 +8,7 @@ Chefchaouen es una ciudad entre las montañas del Rif al sur de Tetuán. La ciud
 
 Chaouen, como también es conocida, es además el epicentro fumeta de este país. Puesto que se cultiva marihuana en las montañas que rodean la ciudad, el precio del hashish y del kief es bajísimo. Por eso es tan común encontrar en el *souk* de la medina una pipa tradicional llamada *sebsi*, la cual facilita el consumo de kief.
 
-Esta es la primera de las ciudades azules que tengo planificado visitar durante este periplo, cumpliendo así uno de los [objetivos del viaje]({% post_url 2024-01-28-objetivo-del-viaje %}).
+Esta es la primera de las ciudades azules que tengo planificado visitar durante este periplo, cumpliendo así uno de los [objetivos del viaje]({% link sobre-el-viaje.md %}).
 
 <figure>
 <img src="{{ site.baseurl }}/assets/images/marruecos2.jpg" alt="Turistas tomándose una foto en una escalera azul"/>

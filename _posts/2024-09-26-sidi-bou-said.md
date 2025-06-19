@@ -8,7 +8,7 @@ La Línea TGM (Tunis - Goullette - Marsa), la única línea de tren ligero que u
 
 (Lamentablemente, uno de los puentes que el tren atraviesa ya no estaba en condiciones para ser utilizado y la línea quedó fracturada entre Goulette Casino y Kheireddine. Y aunque el corte ocurrió meses antes de mi llegada, no había indicio alguno que estuviera en reparación.)
 
-Sidi Bou Said era un [*must*]({% post_url 2024-01-28-objetivo-del-viaje %}) en mi itinerario de viaje. Un pueblo azul que mira al mar mediterráneo, una fantasía pensada para turistas con precios para turistas. Una trampa. Aunque no existe el nivel de hostigamiento hacia los turistas como lo hay en la mayor parte de las ciudades turísticas marroquíes, los *fauconniers* sí insisten en permitirte sostener las aves que utilizan para atraer clientes. 
+Sidi Bou Said era un [*must*]({% link sobre-el-viaje.md %}) en mi itinerario de viaje. Un pueblo azul que mira al mar mediterráneo, una fantasía pensada para turistas con precios para turistas. Una trampa. Aunque no existe el nivel de hostigamiento hacia los turistas como lo hay en la mayor parte de las ciudades turísticas marroquíes, los *fauconniers* sí insisten en permitirte sostener las aves que utilizan para atraer clientes. 
 
 Y a pesar de todo, caminar por sus calles empedradas comiendo *bambalouni*  mientras el viento marino y el sol golpean con fuerza la leve capa de bloqueador que aplicaste en la mañana, sí tiene cierto encanto.
 
