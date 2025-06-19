@@ -60,13 +60,13 @@ layout: default
 
   {% else %}
 
-    <ul class="post-list h-feed hfeed">
+    <ol class="post-list h-feed hfeed" reversed>
       {% for post in site.posts %}
       	{% if post.hidden != true %}
           {% include post-list-item.html %}
 	{% endif %}
       {% endfor %}
-    </ul>
+    </ol>
   
   {% endif %}
     
